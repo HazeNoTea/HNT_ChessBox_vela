@@ -1,0 +1,90 @@
+{
+  "item": {
+    "id": "com.hazenotea.chessbox.watch",
+    "restype": "quick_app",
+    "name": "天空棋盒",
+    "description": "完全免费，由HazeNoTea制作的棋盘游戏盒子，目前有五子棋、象棋、围棋、国际象棋四种棋盘\n\n内置五子棋、象棋、国际象棋人机，围棋暂时没有人机",
+    "preview": [
+      "media/大图.png",
+      "media/宣传图_2.png",
+      "media/宣传图_1.png"
+    ],
+    "icon": "media/天空棋盒logo.png",
+    "cover": "media/大图.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
