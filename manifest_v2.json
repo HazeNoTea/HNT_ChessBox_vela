@@ -3,11 +3,11 @@
     "id": "com.hazenotea.chessbox.watch",
     "restype": "quick_app",
     "name": "天空棋盒",
-    "description": "完全免费，由HazeNoTea制作的棋盘游戏盒子，目前有五子棋、象棋、围棋、国际象棋四种棋盘\n\n内置五子棋、象棋、国际象棋人机，围棋暂时没有人机",
+    "description": "完全免费，由HazeNoTea制作的棋盘游戏盒子\n\n目前有五子棋、象棋、围棋、国际象棋、飞行棋、扫雷六种玩法、多个模式\n五子棋、象棋、国际象棋、飞行棋有人机，围棋暂时没有人机\n\nv1.1.0\n1. 修复了一些bug\n2. 新增飞行棋、扫雷",
     "preview": [
       "media/大图.png",
-      "media/宣传图_2.png",
-      "media/宣传图_1.png"
+      "media/宣传图_1.png",
+      "media/宣传图_2.png"
     ],
     "icon": "media/天空棋盒logo.png",
     "cover": "media/大图.png",
@@ -21,69 +21,69 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.hazenotea.chessbox.watch.release.1.1.0.rpk",
+      "versionCode": 5
     }
   },
   "ext": {}
